@@ -39,3 +39,12 @@
 .p {
     text-align: justify;
 }
+
+.container {
+    display: flex;
+}
+
+.img {
+    width: 30%;
+    margin-right: 30px;
+}
