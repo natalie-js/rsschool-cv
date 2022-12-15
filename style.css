@@ -47,4 +47,9 @@
 .img {
     width: 30%;
     margin-right: 30px;
+    flex-shrink: 0;
+}
+
+.caption {
+    margin: 20px;
 }
