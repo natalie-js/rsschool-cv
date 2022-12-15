@@ -1,0 +1,60 @@
+.header {
+   width: 100%;
+   height: 45%;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column
+}
+
+.nav {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row;
+    flex-wrap: nowrap;
+}
+
+.main {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    flex-direction: column;
+}
+
+.footer {
+    width: 100%;
+    height: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.p {
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: 30%;
+    margin-right: 30px;
+    flex-shrink: 0;
+}
+
+.caption {
+    margin: 20px;
+}
+
+.background-color {
+    background-color: rgba(188, 188, 188, 0.5);
+}
