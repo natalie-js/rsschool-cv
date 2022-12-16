@@ -65,3 +65,14 @@
     flex-flow: row wrap;
     justify-content: center;
 }
+
+.text {
+    text-align: center;
+    margin: 35px;
+    font: 16px/1.5 Verdana, sans-serif;
+    list-style: none;
+}
+
+.list {
+    list-style: none;
+}
