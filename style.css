@@ -44,10 +44,6 @@
     flex-shrink: 0;
 }
 
-.caption {
-    margin: 20px;
-}
-
 .background-color {
     background-color: rgba(188, 188, 188, 0.5);
 }
