@@ -40,8 +40,8 @@
 }
 
 .img {
-    width: 50%;
-    margin-right: 30px;
+    width: 60%;
+    margin: auto;
     flex-shrink: 0;
 }
 
