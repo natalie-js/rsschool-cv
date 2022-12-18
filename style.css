@@ -61,12 +61,14 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    margin: 50px;
 }
 
 .h2 {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    margin: 50px;
 }
 
 .list {
