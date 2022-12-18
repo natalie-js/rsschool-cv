@@ -44,7 +44,7 @@
     width: 30%;
     margin: auto;
     flex-shrink: 0;
-    border: 8px solid RGB(236, 224, 70);
+    border: 8px solid RGBA(236, 224, 70, 0.3);
 }
 
 .background-color {
@@ -84,7 +84,7 @@
 }
 
 a:hover {
-    color: RGB(236, 224, 70);
+    color: RGBA(236, 224, 70, 0.3);
 }
 
 .h4 {
