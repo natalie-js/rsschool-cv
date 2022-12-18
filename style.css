@@ -91,3 +91,10 @@ a:hover {
     margin-top: 60px;
     font-weight: bold
 }
+
+.hr {
+    border: none;
+    background-color: RGBA(236, 224, 70, 0.3);
+    color: RGBA(236, 224, 70, 0.3);
+    height: 8px;
+}
