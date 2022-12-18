@@ -70,3 +70,8 @@
 .list {
     list-style: none;
 }
+
+.text {
+    text-align: center;
+    font: 16px/1.4 Arial, sans-serif;
+}
