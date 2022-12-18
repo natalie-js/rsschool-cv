@@ -31,7 +31,8 @@
 
 .p {
     text-align: center;
-    margin: auto;
+    padding: 20px;
+    margin: 20px;
 }
 
 .container {
