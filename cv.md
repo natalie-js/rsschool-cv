@@ -23,7 +23,7 @@ My previous jobs helped me to understand that this isn’t an area where I would
 * ##### HTML
 * ##### CSS
 * ##### Git
-* ##### JavaScript 
+* ##### JavaScript
 
 **********************************************************************************
 
