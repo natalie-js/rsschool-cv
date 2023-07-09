@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .li {
+    display: inline;
+    padding: inherit;
+  }
+
+  .hr {
+    border: none;
+    background-color: #3CB371;
+    color: #3CB371;
+    height: 2px;
+  }
